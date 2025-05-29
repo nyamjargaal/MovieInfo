@@ -62,6 +62,9 @@ main section {
   text-align: center;
   color: #a68905;
 }
+h1 {
+  color: red;
+}
 .movie-info p {
   background: #232f3e;
   color: #fff;
